@@ -1,0 +1,31 @@
+ul{
+    padding-top: 10px;
+}
+
+.navbar-brand{
+    margin-top: 15px;
+}
+
+.navbar-brand a{
+    text-decoration: none;
+}
+
+.button{
+    margin: 10px;
+}
+
+.sec-poster{
+    padding-top: 10px;
+}
+
+footer{
+    background: #003;
+    padding: 10px 0px;
+}
+
+footer p{
+    color: aliceblue;
+    text-align: center;
+}
+
+    
